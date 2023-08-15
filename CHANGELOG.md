@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.58.1](https://www.github.com/aeternity/ae_mdw/compare/v1.58.0...v1.58.1) (2023-08-15)
+
+
+### Miscellaneous
+
+* remove old mocked websocket tests ([#1526](https://www.github.com/aeternity/ae_mdw/issues/1526)) ([dd75063](https://www.github.com/aeternity/ae_mdw/commit/dd75063011c86ee46d7d393a0d7dbc5d18c87c56))
+* use functional single item pipe ([#1529](https://www.github.com/aeternity/ae_mdw/issues/1529)) ([dad0822](https://www.github.com/aeternity/ae_mdw/commit/dad0822cdeae1b5a67c714c37f6d2e320d4f16b1))
+
 ## [1.58.0](https://www.github.com/aeternity/ae_mdw/compare/v1.57.2...v1.58.0) (2023-08-14)
 
 
